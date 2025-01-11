@@ -1,16 +1,20 @@
-## Hi there 👋
+# Cybersecurity Portfolio
 
-<!--
-**FrostyCosmicGlitch/FrostyCosmicGlitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my **Cybersecurity Portfolio**! This repository showcases my skills, projects, and achievements in the field of cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 About Me
+I am a passionate cybersecurity enthusiast with a focus on:
+-  Ethical Hacking, Network Security, Malware Analysis ,pentesting.
+- Constantly learning and exploring to improve security.
+
+
+---
+
+## 🛠️ Skills & Tools
+Here are the key skills and tools I specialize in:
+- **Programming Languages:** Python, Bash, C, ++
+- **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Nessus ,Burpsuit.
+- **Operating Systems:** Kali Linux, Windows
+
