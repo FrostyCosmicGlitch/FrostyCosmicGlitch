@@ -14,7 +14,7 @@ I am a passionate cybersecurity enthusiast with a focus on:
 
 ## 🛠️ Skills & Tools
 Here are the key skills and tools I specialize in:
-- **Programming Languages:** Python, Bash, C, ++
+- **Programming Languages:** Python, Bash, Java,Java script
 - **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Nessus ,Burpsuit.
 - **Operating Systems:** Kali Linux, Windows
 
